@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/oivatO-soD-sotnaS)
 <h1 align="center">Oi👋, meu nome é Otávio dos Santos Lima</h1>
 <h3 align="center">Um programador apaixonado do Brasil</h3>
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif)" width="400" height="400" />
+<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="400" height="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oivato-sod-sotnas&label=Profile%20views&color=0e75b6&style=flat" alt="oivato-sod-sotnas" /> </p>
 
 - 🌱 Aprendendo atualmente **Swift, react e C**
