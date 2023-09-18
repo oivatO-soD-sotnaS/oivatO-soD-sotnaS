@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://github.com/oivatO-soD-sotnaS)
+![MasterHead](https://banners.beyondco.de/Ot%C3%A1vio%20dos%20Santos%20Lima.png?theme=dark&packageManager=&packageName=Full+stack+developer&pattern=current&style=style_2&description=&md=1&showWatermark=0&fontSize=150px&images=academic-cap&widths=auto)
 <h1 align="center">Oi👋, meu nome é Otávio dos Santos Lima</h1>
 <h3 align="center">Apaixonado por codar</h3>
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="400" height="400" />
