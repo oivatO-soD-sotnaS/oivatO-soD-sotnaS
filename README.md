@@ -1,4 +1,4 @@
-![MasterHead](https://banners.beyondco.de/Ot%C3%A1vio%20dos%20Santos%20Lima.png?theme=dark&packageManager=&packageName=Full+stack+developer&pattern=current&style=style_2&description=&md=1&showWatermark=0&fontSize=150px&images=academic-cap&widths=auto)
+![MasterHead](https://banners.beyondco.de/Ot%C3%A1vio%20dos%20Santos%20Lima.png?theme=dark&packageManager=&packageName=&pattern=architect&style=style_1&description=Desenvolvedor+Front-End&md=1&showWatermark=0&fontSize=150px&images=academic-cap)
 <h1 align="center">Oi👋, meu nome é Otávio dos Santos Lima</h1>
 <h3 align="center">Apaixonado por codar</h3>
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="400" height="400" />
