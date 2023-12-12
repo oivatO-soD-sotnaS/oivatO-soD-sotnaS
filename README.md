@@ -4,7 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="400" height="400" />
 
 
-- 🌱 Aprendendo atualmente **javaFX, C e C++**
+- 🌱 Aprendendo atualmente **PHP, C e C++**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/oivatO-soD-sotnaS?tab=repositories](https://github.com/oivatO-soD-sotnaS?tab=repositories)
 
