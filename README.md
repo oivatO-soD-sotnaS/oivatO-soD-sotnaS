@@ -8,7 +8,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/oivatO-soD-sotnaS?tab=repositories](https://github.com/oivatO-soD-sotnaS?tab=repositories)
 
-- 📫 Como falar comigo **otavio.santos.lima.tds.2022@gmail.com**
+- 📫 Como falar comigo **santos.lima.otavio07@gmail.com**
 
 - ⚡ Fato interessante **faço academia desde os 14 anos💪🏻**
 
