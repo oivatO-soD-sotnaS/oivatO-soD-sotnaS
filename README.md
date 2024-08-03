@@ -3,7 +3,7 @@
 <h3 align="center">Apaixonado por codar</h3>
 <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="400" height="400" />
 
-- 👨‍💻 Estagiário em segurança cibernética no Parque Tecnológico da Itaipu
+- 👨‍💻 Estagiário em segurança cibernética na Itaipu Parquetec
 
 - 📫 Como falar comigo **santos.lima.otavio07@gmail.com**
 
